@@ -32,6 +32,7 @@ Cabinet - Комплексное решение для быстрого внед
 - Гибкое управление профилем пользователя
 - Защита от CSRF-атак
 - Интеграция с reCAPTCHA 3
+- Интеграция с Yandex SmartCaptcha
 - Bootstrap 5
 - Нативный JavaScript
 
@@ -182,6 +183,12 @@ Cabinet - Комплексное решение для быстрого внед
 Интеграция с Google reCAPTCHA 3 для защиты от автоматизированных атак.
 
 [![Опции reCAPTCHA 3](https://raw.githubusercontent.com/Prihod/modx-extras-docs/main/Cabinet/images/recaptcha.png)](https://raw.githubusercontent.com/Prihod/modx-extras-docs/main/Cabinet/images/recaptcha.png)
+
+### Yandex SmartCaptcha
+
+Интеграция с Yandex SmartCaptcha для защиты от автоматизированных атак.
+
+[![Опции Yandex SmartCaptcha](https://raw.githubusercontent.com/Prihod/modx-extras-docs/main/Cabinet/images/ya_smart_captcha.png)](https://raw.githubusercontent.com/Prihod/modx-extras-docs/main/Cabinet/images/ya_smart_captcha.png)
 
 ## 🧩 Сниппеты
 
